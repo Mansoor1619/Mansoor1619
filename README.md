@@ -6,6 +6,8 @@ I work primarily with Unreal Engine 4/5, using Blueprints and C++ to create scal
 
 This profile highlights projects, experiments, and systems I’ve built from scratch—ranging from VR shooters and AR mobile games to multiplayer frameworks and real-time streaming solutions.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Tools & Tech**
 
 • Unreal Engine 4/5 (Blueprints & C++) 
@@ -17,6 +19,8 @@ This profile highlights projects, experiments, and systems I’ve built from scr
 • AI Systems (Behavior Trees, EQS)
 
 • Performance Optimization & Profiling
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **A Bit About Me**
 
