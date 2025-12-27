@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mansoor, an Unreal Engine Developer focused on building immersive AR, VR, XR, and multiplayer experiences across PC, mobile, and standalone headsets like Meta Quest.
+I'm Muhammad Mansoor, an Unreal Engine Developer focused on building immersive AR, VR, XR, and multiplayer experiences across PC, mobile, and standalone headsets like Meta Quest.
 
 I work primarily with Unreal Engine 4/5, using Blueprints and C++ to create scalable gameplay systems, AI-driven mechanics, and optimized real-time experiences. I enjoy solving performance challenges, especially for VR and AR platforms, and building systems that feel polished and intuitive.
 
